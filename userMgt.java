@@ -1,6 +1,7 @@
 landmark
-simon
+mercy
 dominion
 Ayo
 serah
 manager
+datti
