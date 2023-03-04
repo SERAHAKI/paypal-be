@@ -3,3 +3,4 @@ simon
 dominion
 Ayo
 serah
+manager
