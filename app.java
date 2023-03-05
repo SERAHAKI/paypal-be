@@ -1,10 +1,15 @@
+
 we support;
 java applications
 .net applications
 NodeJS applications
-.net apllication
-python applications
+python application
 web applications
-great
+bug removed
+This is great
+developing java apps
+NodeJS application
 This app is excellent
 This app is excellent for all users 
+This is great
+developing java apps
